@@ -59,6 +59,6 @@ img {
   border-style: solid;
 }
 section{
-  box-shadow: 1px 2px gray,1px 2px gray,1px 2px gray,1px 2px gray;
+  box-shadow: 1px 2px #dddd22,1px 2px #dddd22,1px 2px #dddd22,1px 2px #dddd22;
   
 }
